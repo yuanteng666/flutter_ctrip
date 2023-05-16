@@ -41,7 +41,7 @@ class _TabNavigationState extends State<TabNavigation>{
           HomePage(),
           PhotoPage(),
           PhotoPage(),
-          UserCenterPage()
+          UserCenterPage(),
         ],
       ),
     );
